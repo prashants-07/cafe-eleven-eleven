@@ -1,0 +1,1 @@
+Copy the original unmodified client logo to this directory as logo.png. This file is used unchanged as the logo and favicon.
